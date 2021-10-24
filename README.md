@@ -1,7 +1,7 @@
 # anisochromatic
 Nord and One Dark - inspired colorscheme
 
-```json
+```js
 const boson = {
     0: "#23272e",
     1: "#2c313a",
@@ -17,7 +17,7 @@ const quark = {
 
 const spin = {
     7:  "#F0D38E",
-    8:  "#EEC76D", // keep
+    8:  "#EEC76D",
     9:  "#C2B470",
     10: "#E0A552"
 };
