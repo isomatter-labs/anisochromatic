@@ -59,4 +59,4 @@ const anisochromatic = {
 - [Emacs](https://github.com/isomatter-labs/anisochromatic-emacs)
 - [VSCode](https://github.com/isomatter-labs/anisochromatic-vscode)
 - [Warp](https://github.com/isomatter-labs/anisochromatic-warp)
-- Slack: `#2C313A,#483F1C,#4C515A,#E3837A,#4C515A,#FAF4E9,#98C379,#EEC76D,#2C313A,#62B5F8`
+- Slack: `#2C313A,#586274,#98CC79,#EEC76D`
